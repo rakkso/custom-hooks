@@ -1,0 +1,8 @@
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    Navbar.jsx
+        deleted:    useCounter.jsx
+        deleted:    useFetch.jsx
+        deleted:    useForm.jsx
+
